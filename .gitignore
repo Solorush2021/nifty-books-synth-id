@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.git/
+app_v2_error.txt
+app_v2_output.txt
+watermarked ones/
+*.log
